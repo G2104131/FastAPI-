@@ -1,0 +1,7 @@
+fastapi
+uvicorn 
+passlib
+sqlalchemy
+
+
+#pip3 install -r requirements.txt
